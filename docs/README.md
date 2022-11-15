@@ -8,7 +8,7 @@ Input que permitirá una compra rapida en mi sitio VTEX IO.
 
 ### Paso 1: Clonar Proyecto
 
-Clonar [este](https://github.com/kamivillabla/itgloberspartnercl-custom-diagramation-template) repositorio en tu computador.
+Clonar [este](https://github.com/kamivillabla/itgloberspartnercl-quick-order) repositorio en tu computador.
 
 #### Paso 2 : Editar el Manifest.json
 
